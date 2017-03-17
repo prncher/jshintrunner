@@ -1,0 +1,25 @@
+{
+  "author": {
+    "name": "Prince Cheruvathur",
+    "url": "https://github.com/prncher/jshintrunner/"
+  },
+  "dependencies": {},
+  "description": "A jshint execute on javascript files. change the grunt file for the javascript folder",
+  "devDependencies": {
+    "grunt": "~0.4.1",
+    "grunt-contrib-jshint": "~0.6.4",
+    "grunt-contrib-nodeunit": "~0.2.0",
+    "grunt-contrib-watch": "~0.5.3",
+    "jshint-html-reporter": "^0.2.4"
+  },
+  "directories": {},
+  "engines": {
+    "node": ">= 0.8.0"
+  },
+  "optionalDependencies": {},
+  "repository": {},
+  "scripts": {
+    "test": "No tests"
+  },
+  "version": "1.0.0"
+}
